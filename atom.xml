@@ -17,28 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ssssssssss</title>
-    <link href="https://huangdongjie.github.io/2019/01/29/ssssssssss/"/>
-    <id>https://huangdongjie.github.io/2019/01/29/ssssssssss/</id>
-    <published>2019-01-30T03:17:14.000Z</published>
-    <updated>2019-01-30T04:03:01.680Z</updated>
-    
-    <content type="html"><![CDATA[<p>ssssssssssssssssssssssssss</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;ssssssssssssssssssssssssss&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>test222</title>
     <link href="https://huangdongjie.github.io/2019/01/29/test222/"/>
     <id>https://huangdongjie.github.io/2019/01/29/test222/</id>
@@ -61,20 +39,20 @@
   </entry>
   
   <entry>
-    <title>test</title>
-    <link href="https://huangdongjie.github.io/2019/01/29/test/"/>
-    <id>https://huangdongjie.github.io/2019/01/29/test/</id>
-    <published>2019-01-30T02:02:00.000Z</published>
-    <updated>2019-01-30T02:31:27.480Z</updated>
+    <title>text</title>
+    <link href="https://huangdongjie.github.io/2019/01/29/text/"/>
+    <id>https://huangdongjie.github.io/2019/01/29/text/</id>
+    <published>2019-01-29T17:02:47.000Z</published>
+    <updated>2019-01-30T06:02:48.416Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3><p>hahaha</p><h3 id="sss"><a href="#sss" class="headerlink" title="sss"></a>sss</h3><p>bushi</p>]]></content>
+    <content type="html"><![CDATA[<p>少时诵诗书所所所所所所所所</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h3&gt;&lt;p&gt;hahaha&lt;/p&gt;
-&lt;h3 id=&quot;sss&quot;&gt;&lt;a href=&quot;#sss&quot; class=&quot;headerlink&quot; titl
+        &lt;p&gt;少时诵诗书所所所所所所所所&lt;/p&gt;
+
       
     
     </summary>
@@ -171,6 +149,28 @@
   </entry>
   
   <entry>
+    <title>ssssssssss</title>
+    <link href="https://huangdongjie.github.io/2019/01/29/ssssssssss/"/>
+    <id>https://huangdongjie.github.io/2019/01/29/ssssssssss/</id>
+    <published>2019-01-29T14:17:00.000Z</published>
+    <updated>2019-01-30T06:42:07.480Z</updated>
+    
+    <content type="html"><![CDATA[<p>ssssssssssssssssssssssssss</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ssssssssssssssssssssssssss&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>journal</title>
     <link href="https://huangdongjie.github.io/2019/01/08/journal/"/>
     <id>https://huangdongjie.github.io/2019/01/08/journal/</id>
@@ -209,16 +209,13 @@
     <link href="https://huangdongjie.github.io/2018/10/20/hexo-%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E5%92%8C%E6%9B%B4%E6%94%B9%E4%B8%BB%E9%A2%98/"/>
     <id>https://huangdongjie.github.io/2018/10/20/hexo-插件配置和更改主题/</id>
     <published>2018-10-20T13:23:54.000Z</published>
-    <updated>2019-01-08T15:35:48.248Z</updated>
+    <updated>2019-01-30T06:07:30.024Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/">上一篇</a>讲了 hexo 的安装配置，当我们做好了基本的配置之后呢，有的小伙伴可能会想要更换一个自己喜欢的主题，那么就需要自己去修改主题了，所以这一篇就说说更换 hexo 主题和一些常用插件的使用。</p><h1 id="修改主题"><a href="#修改主题" class="headerlink" title="修改主题"></a>修改主题</h1><h2 id="选择主题"><a href="#选择主题" class="headerlink" title="选择主题"></a>选择主题</h2><p>hexo 中修改主题是一件非常简单的事情，这里推荐一下可以去<a href="https://hexo.io/themes/index.html" target="_blank" rel="noopener">这里</a>找一下，资源比较多，有 demo 的展示网址，能直观的比较不同主题的效果。此外，还可以上 <a href="https://github.com/" target="_blank" rel="noopener">github</a> 搜索 hexo theme 也是不错的方式。</p><h2 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h2><p>这里我选择了 <a href="https://github.com/ahonn/hexo-theme-even" target="_blank" rel="noopener">even</a> 作为我自己的主题，喜欢的同学可以去 github 支持和下载使用，下面的主题更换过程也是以该主题为例，更换其他主题的步骤基本上也是类似的。</p><h3 id="安装过程"><a href="#安装过程" class="headerlink" title="安装过程"></a>安装过程</h3><p>打开终端，进入到我们的 hexo 项目目录下，输入<br><code>npm install hexo-renderer-scss --save</code> 安装主题所需要的依赖包，安装完成后输入<br><code>git clone https://github.com/bay1/hexo-theme-even.git themes/even</code>。</p><p>当然，下载主题这一步也可以直接在 github 上进行手动下载再移动到项目的 theme 文件夹下，<a href="https://github.com/bay1/hexo-theme-even" target="_blank" rel="noopener">主题 github 地址</a>。</p><p>打开项目下的 <code>_config.yml</code> 配置文件，找到 <code>theme</code> 这一行，将冒号后端的字符串替换为 <code>even</code>，保存退出，然后命令行输入 <code>hexo g</code> 接着输入 <code>hexo s</code>，现在再用浏览器打开 <code>127.0.0.1:4000</code> 看看是不是已经成功修改主题了呢。</p><h2 id="配置插件"><a href="#配置插件" class="headerlink" title="配置插件"></a>配置插件</h2><p> even 主题内置了一些比较有用的功能，比如设置文章打赏、文章阅读人数统计、添加标签页、文章访问量统计、添加评论系统等，具体配置可以参考主题作者 <a href="https://github.com/ahonn/hexo-theme-even/wiki" target="_blank" rel="noopener">github 地址</a></p><p>这里我只介绍作者没有提到的插件的安装和配置，这些插件个人认为是比较实用的，包<br>括：</p><ul><li>gitalk 评论</li><li>文章字数统计</li><li>站内搜索</li></ul><h3 id="gitalk"><a href="#gitalk" class="headerlink" title="gitalk"></a>gitalk</h3><p> ###</p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/">上一篇</a>讲了 hexo 的安装配置，当我们做好了基本的配置之后呢，有的小伙伴可能会想要更换一个自己喜欢的主题，那么就需要自己去修改主题了，所以这一篇就说说更换 hexo 主题和一些常用插件的使用。<br><a id="more"></a></p><h1 id="修改主题"><a href="#修改主题" class="headerlink" title="修改主题"></a>修改主题</h1><h2 id="选择主题"><a href="#选择主题" class="headerlink" title="选择主题"></a>选择主题</h2><p>hexo 中修改主题是一件非常简单的事情，这里推荐一下可以去<a href="https://hexo.io/themes/index.html" target="_blank" rel="noopener">这里</a>找一下，资源比较多，有 demo 的展示网址，能直观的比较不同主题的效果。此外，还可以上 <a href="https://github.com/" target="_blank" rel="noopener">github</a> 搜索 hexo theme 也是不错的方式。</p><h2 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h2><p>这里我选择了 <a href="https://github.com/ahonn/hexo-theme-even" target="_blank" rel="noopener">even</a> 作为我自己的主题，喜欢的同学可以去 github 支持和下载使用，下面的主题更换过程也是以该主题为例，更换其他主题的步骤基本上也是类似的。</p><h3 id="安装过程"><a href="#安装过程" class="headerlink" title="安装过程"></a>安装过程</h3><p>打开终端，进入到我们的 hexo 项目目录下，输入<br><code>npm install hexo-renderer-scss --save</code> 安装主题所需要的依赖包，安装完成后输入<br><code>git clone https://github.com/bay1/hexo-theme-even.git themes/even</code>。</p><p>当然，下载主题这一步也可以直接在 github 上进行手动下载再移动到项目的 theme 文件夹下，<a href="https://github.com/bay1/hexo-theme-even" target="_blank" rel="noopener">主题 github 地址</a>。</p><p>打开项目下的 <code>_config.yml</code> 配置文件，找到 <code>theme</code> 这一行，将冒号后端的字符串替换为 <code>even</code>，保存退出，然后命令行输入 <code>hexo g</code> 接着输入 <code>hexo s</code>，现在再用浏览器打开 <code>127.0.0.1:4000</code> 看看是不是已经成功修改主题了呢。</p><h2 id="配置插件"><a href="#配置插件" class="headerlink" title="配置插件"></a>配置插件</h2><p> even 主题内置了一些比较有用的功能，比如设置文章打赏、文章阅读人数统计、添加标签页、文章访问量统计、添加评论系统等，具体配置可以参考主题作者 <a href="https://github.com/ahonn/hexo-theme-even/wiki" target="_blank" rel="noopener">github 地址</a></p><p>这里我只介绍作者没有提到的插件的安装和配置，这些插件个人认为是比较实用的，包<br>括：</p><ul><li>gitalk 评论</li><li>文章字数统计</li><li>站内搜索</li></ul><h3 id="gitalk"><a href="#gitalk" class="headerlink" title="gitalk"></a>gitalk</h3><p> ###</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;a href=&quot;https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/&quot;&gt;上一篇&lt;/a&gt;讲了 hexo 的安装配置，当我们做
-      
+      &lt;p&gt;&lt;a href=&quot;https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/&quot;&gt;上一篇&lt;/a&gt;讲了 hexo 的安装配置，当我们做好了基本的配置之后呢，有的小伙伴可能会想要更换一个自己喜欢的主题，那么就需要自己去修改主题了，所以这一篇就说说更换 hexo 主题和一些常用插件的使用。&lt;br&gt;
     
     </summary>
     
