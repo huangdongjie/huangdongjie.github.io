@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/last-test/</loc>
-    <lastmod>2019-01-30T08:18:20.360Z</lastmod>
+    <loc>https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
+    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
+  </url>  <url>
+    <loc>https://huangdongjie.github.io/2019/01/08/journal/</loc>
+    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
   </url>  <url>
     <loc>https://huangdongjie.github.io/2018/10/20/hexo-%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E5%92%8C%E6%9B%B4%E6%94%B9%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2019-01-30T08:15:32.832Z</lastmod>
@@ -10,37 +13,7 @@
     <loc>https://huangdongjie.github.io/2019/01/30/hello-world/</loc>
     <lastmod>2019-01-30T08:15:32.832Z</lastmod>
   </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/lalala/</loc>
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/08/journal/</loc>
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/ssssssssss/</loc>
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/test222/</loc>
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/test/</loc>
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/Untitled/</loc>
-    <lastmod>2019-01-30T07:28:51.116Z</lastmod>
-  </url>  <url>
     <loc>https://huangdongjie.github.io/2019/01/29/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
     <lastmod>2019-01-30T07:19:56.500Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/%E6%B5%8B%E8%AF%95%E4%B8%A4%E4%B8%8B/</loc>
-    <lastmod>2019-01-30T06:56:17.636Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/%E9%BB%84%E5%86%BB%E7%BB%93/</loc>
-    <lastmod>2019-01-30T05:52:49.120Z</lastmod>
-  </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/%E5%93%88%E5%93%88%E5%93%88%E5%93%88/</loc>
-    <lastmod>2019-01-30T05:50:05.752Z</lastmod>
   </url>
 </urlset>

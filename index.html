@@ -307,7 +307,7 @@
     <header class="post-header">
       <h1 class="post-title">
         
-          <a class="post-link" href="/2019/01/29/lalala/">lalala</a>
+          <a class="post-link" href="/2019/01/29/hexo安装使用体验/">hexo 安装使用体验</a>
         
       </h1>
 
@@ -318,13 +318,69 @@
         
         
           <div class="post-visits"
-            data-url="/2019/01/29/lalala/"
-            data-title="lalala">
+            data-url="/2019/01/29/hexo安装使用体验/"
+            data-title="hexo 安装使用体验">
             阅读次数
           </div>
         
         <div class="post-word-count">
-            全文字数 1
+            全文字数 1.2k
+        </div>
+        <!--div class="post-visits">
+            预计阅读时长 4
+        </div-->
+      </div>
+    </header>
+
+    
+    
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>最近花了两天时间安装体验了一下 <a href="https://hexo.io/" target="_blank" rel="noopener">hexo</a>，经过两天时间的折腾，现在基本上能够用来写点东西了。我自己最开始搭建博客网站是在大学的时候，用 WordPress 加上一个搬瓦工的 VPS，一个个坑踩过去，一番辛苦搭建完之后发现东西是做出来了，但是具体是怎么做出来的就完全说不出来，感觉像是从网上一篇篇教程里东拼西凑出来的，没有付出时间来整理和总结，导致过段时间就忘了，因此，这次有了前车之鉴，在使用 hexo 搭建完这个站点之后，立刻花了点时间出来，将这两天的安装过程和使用体验整理发出。</p>
+          <div class="read-more">
+            <a href="/2019/01/29/hexo安装使用体验/" class="read-more-link">阅读更多</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+    
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2019/01/08/journal/">journal</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2019-01-09
+        </span>
+        
+        
+          <div class="post-visits"
+            data-url="/2019/01/08/journal/"
+            data-title="journal">
+            阅读次数
+          </div>
+        
+        <div class="post-word-count">
+            全文字数 0
         </div>
         <!--div class="post-visits">
             预计阅读时长 1
@@ -341,7 +397,72 @@
         
 
         
-          <p>sssssssssssssssssssss</p>
+          
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+    
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2018/10/20/hexo-插件配置和更改主题/">hexo 插件配置和更改主题</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2018-10-20
+        </span>
+        
+        
+          <div class="post-visits"
+            data-url="/2018/10/20/hexo-插件配置和更改主题/"
+            data-title="hexo 插件配置和更改主题">
+            阅读次数
+          </div>
+        
+        <div class="post-word-count">
+            全文字数 529
+        </div>
+        <!--div class="post-visits">
+            预计阅读时长 1
+        </div-->
+      </div>
+    </header>
+
+    
+    
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          <p><a href="https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/">上一篇</a>讲了 hexo 的安装配置，当我们做好了基本的配置之后呢，有的小伙伴可能会想要更换一个自己喜欢的主题，那么就需要自己去修改主题了，所以这一篇就说说更换 hexo 主题和一些常用插件的使用。</p>
+<h1 id="修改主题"><a href="#修改主题" class="headerlink" title="修改主题"></a>修改主题</h1><h2 id="选择主题"><a href="#选择主题" class="headerlink" title="选择主题"></a>选择主题</h2><p>hexo 中修改主题是一件非常简单的事情，这里推荐一下可以去<a href="https://hexo.io/themes/index.html" target="_blank" rel="noopener">这里</a>找一下，资源比较多，有 demo 的展示网址，能直观的比较不同主题的效果。此外，还可以上 <a href="https://github.com/" target="_blank" rel="noopener">github</a> 搜索 hexo theme 也是不错的方式。</p>
+<h2 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h2><p>这里我选择了 <a href="https://github.com/ahonn/hexo-theme-even" target="_blank" rel="noopener">even</a> 作为我自己的主题，喜欢的同学可以去 github 支持和下载使用，下面的主题更换过程也是以该主题为例，更换其他主题的步骤基本上也是类似的。</p>
+<h3 id="安装过程"><a href="#安装过程" class="headerlink" title="安装过程"></a>安装过程</h3><p>打开终端，进入到我们的 hexo 项目目录下，输入<br><code>npm install hexo-renderer-scss --save</code> 安装主题所需要的依赖包，安装完成后输入<br><code>git clone https://github.com/bay1/hexo-theme-even.git themes/even</code>。</p>
+<p>当然，下载主题这一步也可以直接在 github 上进行手动下载再移动到项目的 theme 文件夹下，<a href="https://github.com/bay1/hexo-theme-even" target="_blank" rel="noopener">主题 github 地址</a>。</p>
+<p>打开项目下的 <code>_config.yml</code> 配置文件，找到 <code>theme</code> 这一行，将冒号后端的字符串替换为 <code>even</code>，保存退出，然后命令行输入 <code>hexo
+ g</code> 接着输入 <code>hexo s</code>，现在再用浏览器打开 <code>127.0.0.1:4000</code> 看看是不是已经成功修改主题了呢。</p>
+<h2 id="配置插件"><a href="#配置插件" class="headerlink" title="配置插件"></a>配置插件</h2><p> even 主题内置了一些比较有用的功能，比如设置文章打赏、文章阅读人数统计、添加标签页、文章访问量统计、添加评论系统等，具体配置可以参考主题作者 <a href="https://github.com/ahonn/hexo-theme-even/wiki" target="_blank" rel="noopener">github 地址</a></p>
+<p>这里我只介绍作者没有提到的插件的安装和配置，这些插件个人认为是比较实用的，包<br>括：</p>
+<ul>
+<li>gitalk 评论</li>
+<li>文章字数统计</li>
+<li>站内搜索</li>
+</ul>
+<h3 id="gitalk"><a href="#gitalk" class="headerlink" title="gitalk"></a>gitalk</h3><p> ###</p>
 
         
       
@@ -359,27 +480,27 @@
     <header class="post-header">
       <h1 class="post-title">
         
-          <a class="post-link" href="/2019/01/29/ssssssssss/">ssssssssss</a>
+          <a class="post-link" href="/2018/10/20/hexo安装使用体验/">hexo 安装使用体验</a>
         
       </h1>
 
       <div class="post-meta">
         <span class="post-time">
-          2019-01-30
+          2018-10-20
         </span>
         
         
           <div class="post-visits"
-            data-url="/2019/01/29/ssssssssss/"
-            data-title="ssssssssss">
+            data-url="/2018/10/20/hexo安装使用体验/"
+            data-title="hexo 安装使用体验">
             阅读次数
           </div>
         
         <div class="post-word-count">
-            全文字数 1
+            全文字数 1.2k
         </div>
         <!--div class="post-visits">
-            预计阅读时长 1
+            预计阅读时长 4
         </div-->
       </div>
     </header>
@@ -391,115 +512,14 @@
       
         
         
+          
+        
 
         
-          <p>ssssssssssssssssssssssssss</p>
-
-        
-      
-    </div>
-
-    
-
-    
-
-  </article>
-
-    
-      
-  <article class="post">
-    <header class="post-header">
-      <h1 class="post-title">
-        
-          <a class="post-link" href="/2019/01/29/test222/">test222</a>
-        
-      </h1>
-
-      <div class="post-meta">
-        <span class="post-time">
-          2019-01-30
-        </span>
-        
-        
-          <div class="post-visits"
-            data-url="/2019/01/29/test222/"
-            data-title="test222">
-            阅读次数
+          <p>最近花了两天时间安装体验了一下 <a href="https://hexo.io/" target="_blank" rel="noopener">hexo</a>，经过两天时间的折腾，现在基本上能够用来写点东西了。我自己最开始搭建博客网站是在大学的时候，用 WordPress 加上一个搬瓦工的 VPS，一个个坑踩过去，一番辛苦搭建完之后发现东西是做出来了，但是具体是怎么做出来的就完全说不上来，感觉像是从网上一篇篇教程里东拼西凑出来的，没有付出时间来整理和总结，导致过段时间就忘了，因此，这次有了前车之鉴，在使用 hexo 搭建完这个站点之后，立刻花了点时间出来，将这两天的安装过程和使用体验整理发出。</p>
+          <div class="read-more">
+            <a href="/2018/10/20/hexo安装使用体验/" class="read-more-link">阅读更多</a>
           </div>
-        
-        <div class="post-word-count">
-            全文字数 1
-        </div>
-        <!--div class="post-visits">
-            预计阅读时长 1
-        </div-->
-      </div>
-    </header>
-
-    
-    
-
-    <div class="post-content">
-      
-        
-        
-
-        
-          <p>ssssssssssssssssssssssssssssssssssss</p>
-
-        
-      
-    </div>
-
-    
-
-    
-
-  </article>
-
-    
-      
-  <article class="post">
-    <header class="post-header">
-      <h1 class="post-title">
-        
-          <a class="post-link" href="/2019/01/29/test/">test</a>
-        
-      </h1>
-
-      <div class="post-meta">
-        <span class="post-time">
-          2019-01-30
-        </span>
-        
-        
-          <div class="post-visits"
-            data-url="/2019/01/29/test/"
-            data-title="test">
-            阅读次数
-          </div>
-        
-        <div class="post-word-count">
-            全文字数 2
-        </div>
-        <!--div class="post-visits">
-            预计阅读时长 1
-        </div-->
-      </div>
-    </header>
-
-    
-    
-
-    <div class="post-content">
-      
-        
-        
-
-        
-          <h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3><p>hahaha</p>
-<h3 id="sss"><a href="#sss" class="headerlink" title="sss"></a>sss</h3><p>bushi</p>
-
         
       
     </div>
@@ -516,11 +536,6 @@
   
   <nav class="pagination">
     
-    
-      <a class="next" href="/page/2/">
-        <span class="next-text">下一页</span>
-        <i class="iconfont icon-right"></i>
-      </a>
     
   </nav>
 
