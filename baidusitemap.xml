@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://huangdongjie.github.io/2019/01/29/Untitled/</loc>
+    <lastmod>2019-01-30T07:06:27.064Z</lastmod>
+  </url>  <url>
     <loc>https://huangdongjie.github.io/2019/01/29/%E6%B5%8B%E8%AF%95%E4%B8%A4%E4%B8%8B/</loc>
     <lastmod>2019-01-30T06:56:17.636Z</lastmod>
   </url>  <url>
@@ -22,10 +25,10 @@
     <loc>https://huangdongjie.github.io/2019/01/08/journal/</loc>
     <lastmod>2019-01-30T02:31:27.480Z</lastmod>
   </url>  <url>
-    <loc>https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
+    <loc>https://huangdongjie.github.io/2019/01/08/hello-world/</loc>
     <lastmod>2019-01-08T15:35:48.248Z</lastmod>
   </url>  <url>
-    <loc>https://huangdongjie.github.io/2019/01/08/hello-world/</loc>
+    <loc>https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
     <lastmod>2019-01-08T15:35:48.248Z</lastmod>
   </url>
 </urlset>
