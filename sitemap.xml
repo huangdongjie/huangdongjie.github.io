@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
+    
+    <lastmod>2019-01-31T09:26:10.316Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huangdongjie.github.io/2018/10/20/hexo-%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E5%92%8C%E6%9B%B4%E6%94%B9%E4%B8%BB%E9%A2%98/</loc>
     
-    <lastmod>2019-01-30T08:24:11.468Z</lastmod>
+    <lastmod>2019-01-31T09:24:09.052Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://huangdongjie.github.io/2019/01/29/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
+    
+    <lastmod>2019-01-31T09:23:49.120Z</lastmod>
     
   </url>
   
@@ -19,13 +33,6 @@
     <loc>https://huangdongjie.github.io/tags/index.html</loc>
     
     <lastmod>2019-01-30T08:15:32.840Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangdongjie.github.io/2018/10/20/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
-    
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
     
   </url>
   
@@ -61,13 +68,6 @@
     <loc>https://huangdongjie.github.io/categories/index.html</loc>
     
     <lastmod>2019-01-30T08:15:32.832Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangdongjie.github.io/2019/01/29/hexo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
-    
-    <lastmod>2019-01-30T07:19:56.500Z</lastmod>
     
   </url>
   
