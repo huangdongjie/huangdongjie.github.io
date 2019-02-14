@@ -268,7 +268,7 @@
           </div>
         
         <div class="post-word-count">
-            全文字数 186
+            全文字数 194
         </div>
         <!--div class="post-visits">
             预计阅读时长 1
@@ -281,7 +281,7 @@
 
     <div class="post-content">
       
-        <p>在 ubuntu 16 以前，可以将要开机执行的命令写在  <code>/etc/rc.local</code> 文件的 exit 0 语句之前，但是 ubuntu 18 中已经由传统的 init 模式启动改为 systemd 模式</p>
+        <p>在 ubuntu 16 以前，可以将要开机执行的命令写在  <code>/etc/rc.local</code> 文件的 exit 0 语句之前，但是 ubuntu 18 中已经由传统的 init 模式启动改为 systemd 模式，就没有 rc.local 文件了。</p>
 <a id="more"></a>
 <p>systemd 包含有一整套的命令以提供非常丰富的功能，这个不做介绍，这里只介绍使用 apt 或 pip 安装shadowsocks 时如何使用 systemd 提供的 systemctl 命令配置开机启动 shadowsocks 客户端。</p>
 <p>在 <code>/lib/systemd/system/</code> 目录下新建 shadowsocks.service 文件，<code>vim shadowsocks.service</code> 编辑文件，复制如下内容到文件，保存 &amp; 退出：</p>
