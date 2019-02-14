@@ -3,6 +3,17 @@
   
     
     <entry>
+      <title>Ubuntu 18 配置 shadowsocks 客户端开机自启</title>
+      <link href="/2019/02/13/%E9%85%8D%E7%BD%AE-shadowsocks-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/"/>
+      <url>/2019/02/13/%E9%85%8D%E7%BD%AE-shadowsocks-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</url>
+      
+        <content type="html"><![CDATA[<p>在 ubuntu 16 以前，可以将要开机执行的命令写在  <code>/etc/rc.local</code> 文件的 exit 0 语句之前，但是 ubuntu 18 中已经由传统的 init 模式启动改为 systemd 模式</p><a id="more"></a><p>systemd 包含有一整套的命令以提供非常丰富的功能，这个不做介绍，这里只介绍使用 apt 或 pip 安装shadowsocks 时如何使用 systemd 提供的 systemctl 命令配置开机启动 shadowsocks 客户端。</p><p>在 <code>/lib/systemd/system/</code> 目录下新建 shadowsocks.service 文件，<code>vim shadowsocks.service</code> 编辑文件，复制如下内容到文件，保存 &amp; 退出：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">[Unit]</span><br><span class="line">Description=Shadowsocks Client Service</span><br><span class="line">After=network.target</span><br><span class="line"></span><br><span class="line">[Service]</span><br><span class="line">Type=forking</span><br><span class="line">User=root</span><br><span class="line">ExecStart=/usr/local/bin/sslocal -d start -v -c /etc/ss.json</span><br><span class="line"></span><br><span class="line">[Install]</span><br><span class="line">WantedBy=multi-user.target</span><br></pre></td></tr></table></figure><p>最后终端执行 <code>systemctl enable shadowsocks</code></p><p>重启</p><p>done</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
       <title>shadowsocks 无法使用的一次事故</title>
       <link href="/2019/01/30/test1/"/>
       <url>/2019/01/30/test1/</url>
