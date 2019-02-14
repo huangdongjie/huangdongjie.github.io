@@ -32,18 +32,18 @@
     </summary>
     
     
-      <category term="linux" scheme="https://huangdongjie.github.io/tags/linux/"/>
-    
       <category term="shadowsocks" scheme="https://huangdongjie.github.io/tags/shadowsocks/"/>
+    
+      <category term="linux" scheme="https://huangdongjie.github.io/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>shadowsocks 无法使用的一次事故</title>
-    <link href="https://huangdongjie.github.io/2019/01/30/test1/"/>
-    <id>https://huangdongjie.github.io/2019/01/30/test1/</id>
-    <published>2019-01-30T07:53:00.000Z</published>
-    <updated>2019-02-14T03:04:02.776Z</updated>
+    <link href="https://huangdongjie.github.io/2019/01/29/test1/"/>
+    <id>https://huangdongjie.github.io/2019/01/29/test1/</id>
+    <published>2019-01-29T18:53:00.000Z</published>
+    <updated>2019-02-14T03:10:06.908Z</updated>
     
     <content type="html"><![CDATA[<p>开开心心回家过年，回到家却发现在广州用着好好的 shadowsocks 用不了了。</p><a id="more"></a><p>起初怀疑是家里移动宽带 ISP 的问题，后来直接用手机 + 联通卡试了一下发现也是这样–排除此怀疑对象。</p><p>又怀疑是不是我的 vps IP 被封了，后来换了 IP 也没能解决问题。</p><p>最后，忽然想到是不是把我的端口给封住了，于是把之前 ss 服务端监听的端口由 4443 改为 443，终于，一切恢复正常。</p>]]></content>
     
@@ -53,6 +53,8 @@
     
     </summary>
     
+    
+      <category term="shadowsocks" scheme="https://huangdongjie.github.io/tags/shadowsocks/"/>
     
   </entry>
   
