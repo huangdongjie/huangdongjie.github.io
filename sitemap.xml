@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huangdongjie.github.io/2019/01/08/journal/</loc>
+    
+    <lastmod>2019-02-14T02:56:55.156Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huangdongjie.github.io/2019/02/13/%E9%85%8D%E7%BD%AE-shadowsocks-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</loc>
     
     <lastmod>2019-02-14T02:53:48.000Z</lastmod>
@@ -12,20 +19,6 @@
     <loc>https://huangdongjie.github.io/2019/01/30/test1/</loc>
     
     <lastmod>2019-02-09T16:03:59.016Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangdongjie.github.io/2019/01/30/exo%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</loc>
-    
-    <lastmod>2019-01-31T09:51:29.428Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangdongjie.github.io/2019/01/30/hello-world/</loc>
-    
-    <lastmod>2019-01-31T09:49:29.620Z</lastmod>
     
   </url>
   
@@ -54,13 +47,6 @@
     <loc>https://huangdongjie.github.io/tags/index.html</loc>
     
     <lastmod>2019-01-30T08:15:32.840Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangdongjie.github.io/2019/01/08/journal/</loc>
-    
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
     
   </url>
   
