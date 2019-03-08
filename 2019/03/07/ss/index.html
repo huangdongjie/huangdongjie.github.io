@@ -266,7 +266,7 @@
           </div>
         
         <div class="post-word-count">
-            全文字数 348
+            全文字数 349
         </div>
         <!--div class="post-visits">
             预计阅读时长 1
@@ -286,7 +286,7 @@
 <p>编辑 psql 配置文件</p>
 <p><code>sudo vim /etc/postgresql/[psql 版本号]/main/pg_hba.conf</code> 找到下方内容所在的行</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Database administrative login by Unix domain socket</span></span><br><span class="line"><span class="built_in">local</span>   all             postgres                                md5</span><br></pre></td></tr></table></figure>
-<p>这一行的意思只有 postgres 用户在本地登录数据库时才会使用 md5 的方式验证，所谓的 md5 方式就是登录时必须填写密码，然后用 md5 摘要算法验证，简单理解就是我们常用的账户名 + 密码的认证方式</p>
+<p>这一行的意思是只有 postgres 用户在本地登录数据库时才会使用 md5 的方式验证，所谓的 md5 方式就是登录时必须填写密码，然后用 md5 摘要算法验证，简单理解就是我们常用的账户名 + 密码的认证方式</p>
 <p>此外还有另外两种验证方式：</p>
 <p>peer：即信任当前的系统用户，当使用当前的系统用户登录进数据库时不需要认证，如果我们要用别的账户登录进数据库时就会认证错误。</p>
 <p>trust：永远相信任何用户的连接，即所有用户登录都不需要认证</p>
