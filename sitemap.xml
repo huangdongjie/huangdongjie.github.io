@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huangdongjie.github.io/about/index.html</loc>
+    
+    <lastmod>2019-08-30T06:27:28.468Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huangdongjie.github.io/2019/03/07/ss/</loc>
     
     <lastmod>2019-03-08T08:03:14.148Z</lastmod>
@@ -37,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://huangdongjie.github.io/tags/index.html</loc>
-    
-    <lastmod>2019-01-30T08:15:32.840Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huangdongjie.github.io/search/index.html</loc>
     
     <lastmod>2019-01-30T08:15:32.840Z</lastmod>
@@ -51,9 +51,9 @@
   </url>
   
   <url>
-    <loc>https://huangdongjie.github.io/about/index.html</loc>
+    <loc>https://huangdongjie.github.io/tags/index.html</loc>
     
-    <lastmod>2019-01-30T08:15:32.832Z</lastmod>
+    <lastmod>2019-01-30T08:15:32.840Z</lastmod>
     
   </url>
   
