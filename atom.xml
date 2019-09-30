@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangdongjie.github.io/"/>
-  <updated>2019-03-08T08:03:14.148Z</updated>
+  <updated>2019-09-30T07:23:28.572Z</updated>
   <id>https://huangdongjie.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://huangdongjie.github.io/2019/09/29/test/"/>
+    <id>https://huangdongjie.github.io/2019/09/29/test/</id>
+    <published>2019-09-29T19:18:29.000Z</published>
+    <updated>2019-09-30T07:23:28.572Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello world</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hello world&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>psql 导出数据库操作时认证失败</title>
